@@ -21,8 +21,9 @@
 ### Тестирование
 
 Скриншоты результата работы программы
-<img width="1139" height="297" alt="Снимок экрана 2026-02-27 035139" src="https://github.com/user-attachments/assets/e5a08834-c441-47d1-9fe3-697f910df19b" />
-<img width="1131" height="131" alt="Снимок экрана 2026-02-27 035200" src="https://github.com/user-attachments/assets/6c07de9a-b920-404a-af7d-aad7e16ad93a" />
+<img width="1139" height="297" alt="Снимок экрана 2026-02-27 035139" src="https://github.com/user-attachments/assets/3bb6f21d-e3eb-4a75-88d5-ee9591a64370" />
+<img width="1131" height="131" alt="Снимок экрана 2026-02-27 035200" src="https://github.com/user-attachments/assets/21b63439-4968-48de-9fef-26c56a5e9380" />
+
 
 
 
@@ -51,8 +52,9 @@
 Затем полученная цифра выводится на экран
 
 ### Тестирование
-<img width="535" height="135" alt="Снимок экрана 2026-02-27 040341" src="https://github.com/user-attachments/assets/6c0ea93b-0343-47f7-89f5-dd0eecce66f1" />
-<img width="538" height="135" alt="Снимок экрана 2026-02-27 040359" src="https://github.com/user-attachments/assets/e557e8e5-4eed-4c1b-a787-523f7d95d1c5" />
+<img width="535" height="135" alt="Снимок экрана 2026-02-27 040341" src="https://github.com/user-attachments/assets/126909af-daee-4d33-95a8-7368604a6e0a" />
+<img width="538" height="135" alt="Снимок экрана 2026-02-27 040359" src="https://github.com/user-attachments/assets/a327c82b-e775-40a8-9cca-a07f0b69698c" />
+
 
 
 
