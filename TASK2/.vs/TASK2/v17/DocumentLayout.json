@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prokhor\\source\\repos\\TASK2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13BC2B73-168F-4F84-911F-AFBDBC818A2E}|TASK2\\TASK2.fsproj|c:\\users\\prokhor\\source\\repos\\task2\\task2\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{13BC2B73-168F-4F84-911F-AFBDBC818A2E}|TASK2\\TASK2.fsproj|solutionrelative:task2\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\Prokhor\\source\\repos\\TASK2\\TASK2\\Program.fs",
+              "RelativeDocumentMoniker": "TASK2\\Program.fs",
+              "ToolTip": "C:\\Users\\Prokhor\\source\\repos\\TASK2\\TASK2\\Program.fs",
+              "RelativeToolTip": "TASK2\\Program.fs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-26T23:54:40.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
